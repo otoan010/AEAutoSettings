@@ -19,7 +19,6 @@ SoftWare Version : After Effects CC 2019 v16.1
 C:\Program Files\Adobe\Adobe After Effects CC 2019\Support Files\Scripts
 
 4.After Effectsを起動し、メニューバーから ファイル > スクリプト　と進み、AEAutoSettingsが追加されていたら設定完了です
-（After Effectsを）
 
 ### 使用方法
 1.After Effectsを起動します
