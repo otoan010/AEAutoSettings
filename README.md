@@ -29,3 +29,23 @@ C:\Program Files\Adobe\Adobe After Effects CC 2019\Support Files\Scripts
 
 3.コンポやフォルダが自動で追加されていたら成功です
 
+### フォルダ設定の変更方法
+folderItemObj.items.addFolder('PreComp');
+
+'PreComp'の 'この中'を変更すると自動で追加されるフォルダのフォルダ名を変更できます
+フォルダこんなにいらないという人は、（例えば）以下の1行を削除するか//を冒頭に入れてください（コメントアウトと言います）
+//folderItemObj.items.addFolder('PreComp');
+
+### コンポ設定の変更方法
+folderItemObj.items.addComp("Main", 1920, 1080, 1, 50, 29.97);
+
+addCompの後の(この中)を変更することでコンポの設定を変更できます
+設定項目と並び順は以下の通りです
+(コンポ名, 横のピクセルサイズ, 縦のピクセルサイズ, 縦横比, コンポの秒数, フレームレート)
+
+### 参考サイト
+AEP Project
+http://ae-users.com/jp/sp0909_scripting-tutorial/
+
+
+
