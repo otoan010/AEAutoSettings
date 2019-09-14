@@ -1,2 +1,31 @@
 # AEAutoSettings
-for  Auto Settings of After Effects Project
+After Effectsで新規プロジェクトを始める際に、コンポやディレクトリの設定を自動でできるようにしたものです
+新規プロジェクト作成時にフォルダを作ったりコンポを作成したりマウスをポチポチし、設定の為に数値を打ち込んだり、
+といった手間が減った幸せを感じて頂けたら幸いです
+
+### 実行環境  
+以下の環境で確認しております
+PC : windows10 / macOS
+SoftWare Version : After Effects CC 2019 v16.1
+
+### 設定方法  
+1.Clone or download から Download.zip をクリックしてzipファイルをダウンロードしてください
+
+2.ダウンロードしたzipファイルをPCの適当なフォルダに解凍してください
+
+3.AEAutoSettings.jsxをAfter EffectsのScriptsというフォルダに格納してください（コピペしてください）
+
+以下はスクリプトを格納するフォルダの例です
+C:\Program Files\Adobe\Adobe After Effects CC 2019\Support Files\Scripts
+
+4.After Effectsを起動し、メニューバーから ファイル > スクリプト　と進み、AEAutoSettingsが追加されていたら設定完了です
+（After Effectsを）
+
+### 使用方法
+1.After Effectsを起動します
+
+2.使用したプロジェクトの履歴が表示されますが、無視して(閉じてから以下の操作をして頂いても構いません)  
+メニューバーから ファイル > スクリプト　と進み、AEAutoSettingsをクリックします
+
+3.コンポやフォルダが自動で追加されていたら成功です
+
