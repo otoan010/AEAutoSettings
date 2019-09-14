@@ -4,7 +4,7 @@ After Effectsで新規プロジェクトを始める際に、コンポやディ�
 設定の為に数値を打ち込んだり、といった手間が減った幸せを感じて頂けたら幸いです  
 
 ### 実行環境  
-以下の環境で確認しております
+以下の環境で確認しています  
 PC : windows10 / macOS
 SoftWare Version : After Effects CC 2019 v16.1
 
